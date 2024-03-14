@@ -22,7 +22,7 @@ Coming Soon...
 | Programming Language | C/C++ |
 | Arduino Library | • SoftwareSerial (default)<br>• DFRobotDFPlayerMini |
 | Actuators | Speaker |
-| Other Components | • Jumper cable (1 set)<br>• DF-Player Mini MP3-TF16P (x1)<br>• Micro SD card: SanDisk (x1)<br>• Breadboard (x1)<br>• Resistor (x1)<br>• Electrolytic capacitor (x1)<br>• Push button 12 x 12 mm (x8) |
+| Other Components | • Micro USB cable - USB type A (x1)<br>• Adaptor DC 5V (x1)<br>• Jumper cable (1 set)<br>• DF-Player Mini MP3-TF16P (x1)<br>• Micro SD card: SanDisk (x1)<br>• Breadboard (x1)<br>• Resistor (x1)<br>• Electrolytic capacitor (x1)<br>• Push button 12 x 12 mm (x8) |
 
 <br><br>
 
@@ -157,7 +157,21 @@ Basically, a device can be communicated with other devices either wirelessly or 
 <br><br>
 
 ## ST-Link/V2 Setup
-Coming Soon...
+<img width="840" src="https://github.com/devancakra/Alat-Musik-Piano-Berbasis-STM32/assets/54527592/8de3ded0-1279-40da-80cd-9aeef676353f"><br><br>
+
+<strong>Notes:</strong>
+
+<table><tr><td width="840">
+
+   • The JTAG or ``` Serial Cable Debugging (SWD) ``` interface module is basically used to communicate with the ``` STM32 ``` board.
+   
+   • You can see the wiring between the ``` ST-Link/V2 ``` and the ``` STM32 ``` board in the picture above.
+
+   • To upload the program, besides using the ``` ST-Link/V2 ```, you can also use other programming tools such as: ``` CP2102 USB ```, ``` CH340 USB ```, ``` PL2303 USB ```, or with ``` FTDI USB ```.
+   
+   • Based on experience, I admit that using the ``` ST-Link/V2 ``` is much better than other programming tools because the process is easier, faster, and more stable.
+
+</td></tr></table>
 
 <br><br>
 
