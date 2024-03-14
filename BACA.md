@@ -146,7 +146,21 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 <br><br>
 
 ## Pengaturan ST-Link/V2
-Segera Hadir...
+<img width="840" src="https://github.com/devancakra/Alat-Musik-Piano-Berbasis-STM32/assets/54527592/8de3ded0-1279-40da-80cd-9aeef676353f"><br><br>
+
+<strong>Catatan :</strong>
+
+<table><tr><td width="840">
+
+   • Modul antarmuka JTAG atau ``` Debugging Kabel Serial (SWD) ``` pada dasarnya digunakan untuk berkomunikasi dengan board ``` STM32 ```.
+   
+   • Pemasangan kabel antara ``` ST-Link/V2 ``` dengan board ``` STM32 ``` dapat anda lihat selengkapnya pada gambar di atas.
+
+   • Untuk mengunggah program, selain menggunakan ``` ST-Link/V2 ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` USB CP2102 ```, ``` USB CH340 ```, ``` USB PL2303 ``` , atau dengan ``` USB FTDI ```.
+   
+   • Berdasarkan pengalaman, saya akui bahwa menggunakan ``` ST-Link/V2 ``` jauh lebih baik daripada alat pemrogram lainnya karena prosesnya mudah, cepat, dan stabil.
+
+</td></tr></table>
 
 <br><br>
 
