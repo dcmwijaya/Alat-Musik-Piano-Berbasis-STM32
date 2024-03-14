@@ -137,11 +137,19 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 
    </td></tr></table><br>
    
-7. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
+7. ``` Instal Pustaka ``` di Arduino IDE
 
-8. Jika tidak ada kesalahan dalam kode program, langkah selanjutnya yaitu menggunakan alat pemrograman ``` STM32 ``` sesuai dengan prosedur. Kemudian klik: ``` Upload ```.<br><br>
+   <table><tr><td width="810">
+         
+      Unduh semua file zip pustaka. Lalu tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```
 
-9. Jika masih ada masalah saat unggah program, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` alat pemrogram ``` / ``` yang lainnya ```.
+   </td></tr></table><br>
+   
+8. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
+
+9. Jika tidak ada kesalahan dalam kode program, langkah selanjutnya yaitu menggunakan alat pemrograman ``` STM32 ``` sesuai dengan prosedur. Kemudian klik: ``` Upload ```.<br><br>
+
+10. Jika masih ada masalah saat unggah program, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` alat pemrogram ``` / ``` yang lainnya ```.
 
 <br><br>
 
