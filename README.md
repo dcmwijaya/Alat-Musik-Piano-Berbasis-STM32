@@ -148,11 +148,19 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
    </td></tr></table><br>
    
-7. Before uploading the program please click: ``` Verify ```.<br><br>
+7. ``` Install Library ``` in Arduino IDE
 
-8. If there is no error in the program code, the next step is to use the ``` STM32 ``` programming tool according to the procedure. Then click: ``` Upload ```.<br><br>
+   <table><tr><td width="810">
+         
+      Download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```
 
-9. If there is still a problem when uploading the program, then try checking the ``` driver ``` / ``` port ``` / ``` programmer tool ``` / ``` others ``` section.
+   </td></tr></table><br>
+   
+8. Before uploading the program please click: ``` Verify ```.<br><br>
+
+9. If there is no error in the program code, the next step is to use the ``` STM32 ``` programming tool according to the procedure. Then click: ``` Upload ```.<br><br>
+
+10. If there is still a problem when uploading the program, then try checking the ``` driver ``` / ``` port ``` / ``` programmer tool ``` / ``` others ``` section.
 
 <br><br>
 
