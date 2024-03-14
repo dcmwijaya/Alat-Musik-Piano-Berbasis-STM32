@@ -55,7 +55,7 @@ Segera Hadir...
 <th width="420">Diagram Ilustrasi</th>
 </tr>
 <tr>
-<td><img src="" alt="Block-Diagram"></td>
+<td><img src="https://github.com/devancakra/Alat-Musik-Piano-Berbasis-STM32/assets/54527592/9ce1083a-84e1-42f3-8849-f3e7dfa86cff" alt="Block-Diagram"></td>
 <td><img src="" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
