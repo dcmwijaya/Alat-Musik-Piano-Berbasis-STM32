@@ -21,7 +21,7 @@ Piano merupakan alat musik melodis yang dapat menghasilkan nada ketika ditekan. 
 | Bahasa Pemrograman | C/C++ |
 | Arduino Library | • SoftwareSerial (bawaan)<br>• DFRobotDFPlayerMini |
 | Aktuator | Speaker |
-| Komponen Lainnya | • Kabel Mikro USB - USB tipe A (x1)<br>• Adaptor DC 5V (x1)<br>• Kabel jumper (1 set)<br>• DF-Player Mini MP3-TF16P (x1)<br>• Micro SD card: SanDisk (x1)<br>• Breadboard (x1)<br>• Resistor (x1)<br>• Kapasitor elektrolit (x1)<br>• Tombol tekan 12 x 12 mm (x8) |
+| Komponen Lainnya | • Kabel Mikro USB - USB tipe A (x1)<br>• Adaptor DC 5V (x1)<br>• Kabel jumper (1 set)<br>• DF-Player Mini MP3-TF16P (x1)<br>• Micro SD card: SanDisk (x1)<br>• Breadboard (x2)<br>• Resistor (x1)<br>• Kapasitor elektrolit (x1)<br>• Tombol tekan 12 x 12 mm (x8) |
 
 <br><br>
 
