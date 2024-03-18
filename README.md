@@ -21,7 +21,7 @@ Piano is a melodic musical instrument that can produce tones when pressed. This 
 | Programming Language | C/C++ |
 | Arduino Library | • SoftwareSerial (default)<br>• DFRobotDFPlayerMini |
 | Actuators | Speaker |
-| Other Components | • Micro USB cable - USB type A (x1)<br>• Adaptor DC 5V (x1)<br>• Jumper cable (1 set)<br>• DF-Player Mini MP3-TF16P (x1)<br>• Micro SD card: SanDisk (x1)<br>• Breadboard (x1)<br>• Resistor (x1)<br>• Electrolytic capacitor (x1)<br>• Push button 12 x 12 mm (x8) |
+| Other Components | • Micro USB cable - USB type A (x1)<br>• Adaptor DC 5V (x1)<br>• Jumper cable (1 set)<br>• DF-Player Mini MP3-TF16P (x1)<br>• Micro SD card: SanDisk (x1)<br>• Breadboard (x2)<br>• Resistor (x1)<br>• Electrolytic capacitor (x1)<br>• Push button 12 x 12 mm (x8) |
 
 <br><br>
 
