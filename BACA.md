@@ -191,7 +191,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 <br><br>
 
 ## Apresiasi
-Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
+Jika karya ini ada manfaatnya bagi anda, maka dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara klik tombol ``` ⭐Bintang ``` yang ada di bagian atas repository.
 
 <br><br>
 
