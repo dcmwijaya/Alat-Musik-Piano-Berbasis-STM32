@@ -15,7 +15,7 @@ Piano merupakan alat musik melodis yang dapat menghasilkan nada ketika ditekan. 
 | Papan Pengembangan | STM32F103C8T6 |
 | Editor Kode | Arduino IDE |
 | Alat Pemrogram | ST-Link/V2 |
-| Driver | ST-Link |
+| Driver | ST-Link USB Driver |
 | Protokol Komunikasi | Universal Asynchronous Receiver-Transmitter (UART) |
 | Dukungan Aplikasi | STM32CubeProgrammer |
 | Bahasa Pemrograman | C/C++ |
@@ -28,23 +28,33 @@ Piano merupakan alat musik melodis yang dapat menghasilkan nada ketika ditekan. 
 ## Unduh & Instal
 1. Arduino IDE
 
+   <table><tr><td width="810">
+         
    ```
-   https://www.arduino.cc/en/software
+   https://bit.ly/ArduinoIDE_Installer
    ```
-<br>
 
-2. ST-Link Driver
+   </td></tr></table><br>
+
+2. ST-Link USB Driver
+
+   <table><tr><td width="810">
 
    ```
-   https://bit.ly/STLink_Driver
+   https://bit.ly/STLink_USB_Driver
    ```
-<br>
+
+   </td></tr></table><br>
 
 3. STM32CubeProgrammer
+
+   <table><tr><td width="810">
    
    ```
-   https://bit.ly/STM32_Cube_Programmer
+   https://bit.ly/STM32_Cube_Programmer_Installer
    ```
+
+   </td></tr></table>
    
 <br><br>
 
