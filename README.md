@@ -15,7 +15,7 @@ Piano is a melodic musical instrument that can produce tones when pressed. This 
 | Development Board | STM32F103C8T6 |
 | Code Editor | Arduino IDE |
 | Programmer Tools | ST-Link/V2 |
-| Driver | ST-Link |
+| Driver | ST-Link USB Driver |
 | Communications Protocol | Universal Asynchronous Receiver-Transmitter (UART) |
 | Application Support | STM32CubeProgrammer |
 | Programming Language | C/C++ |
@@ -31,17 +31,17 @@ Piano is a melodic musical instrument that can produce tones when pressed. This 
    <table><tr><td width="810">
          
    ```
-   https://www.arduino.cc/en/software
+   https://bit.ly/ArduinoIDE_Installer
    ```
 
    </td></tr></table><br>
 
-2. ST-Link Driver
+2. ST-Link USB Driver
 
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/STLink_Driver
+   https://bit.ly/STLink_USB_Driver
    ```
 
    </td></tr></table><br>
@@ -51,7 +51,7 @@ Piano is a melodic musical instrument that can produce tones when pressed. This 
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/STM32_Cube_Programmer
+   https://bit.ly/STM32_Cube_Programmer_Installer
    ```
 
    </td></tr></table>
