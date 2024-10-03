@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Alat-Musik-Piano-Berbasis-STM32)
-![Project](https://img.shields.io/badge/Project-STM32-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Alat-Musik-Piano-Berbasis-STM32?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-STM32-light.svg?style=flat&logo=STMicroelectronics&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Alat-Musik-Piano-Berbasis-STM32
 <strong>Solo Project: STM32-based Piano Instrument</strong><br><br>
@@ -65,8 +66,8 @@ Piano is a melodic musical instrument that can produce tones when pressed. This 
 <th width="420">Pictorial Diagram</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Alat-Musik-Piano-Berbasis-STM32/assets/54527592/9ce1083a-84e1-42f3-8849-f3e7dfa86cff" alt="Block-Diagram"></td>
-<td><img src="" alt="Pictorial-Diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Block Diagram.jpg" alt="block-diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram"></td>
 </tr>
 </table>
 <table>
@@ -74,7 +75,7 @@ Piano is a melodic musical instrument that can produce tones when pressed. This 
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img src="" alt="Wiring"></td>
+<td><img src="Assets/Documentation/Table/Device Wiring.jpg" alt="wiring"></td>
 </tr>
 </table>
 
@@ -164,7 +165,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
 <br><br>
 
 ## ST-Link/V2 Setup
-<img width="840" src="https://github.com/devancakra/Alat-Musik-Piano-Berbasis-STM32/assets/54527592/8de3ded0-1279-40da-80cd-9aeef676353f"><br><br>
+<img width="840" src="Assets/Documentation/Experiment/ST-Link Configuration.jpg" alt="stlink-configuration"><br><br>
 
 <strong>Notes:</strong>
 
@@ -196,7 +197,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
 <br><br>
 
 ## Highlights
-<img width="840" src="" alt="pianomini-stm32">
+<img width="840" src="Assets/Documentation/Experiment/Device.jpg" alt="pianomini-stm32">
 
 <br><br>
 
