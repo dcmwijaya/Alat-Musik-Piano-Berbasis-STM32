@@ -5,7 +5,6 @@
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Alat-Musik-Piano-Berbasis-STM32
-<strong>Proyek Tunggal: Alat Musik Piano Berbasis STM32</strong><br><br>
 Piano merupakan alat musik melodis yang dapat menghasilkan nada ketika ditekan. Alat musik ini diminati banyak orang karena harmonisasi suaranya yang indah. Namun harganya yang mahal di pasaran yang menjadikan sebagian orang tidak mampu membelinya. Oleh karena itu, proyek ini dibuat tujuannya agar masyarakat luas dapat mengetahui bahwa alat musik piano itu sebenarnya dapat dirakit sendiri, sehingga harga tidak akan lagi menjadi penghalang. Hal ini tentunya akan sangat menguntungkan bagi masyarakat luas, karena selain dapat memangkas biaya pengeluaran, anda juga dapat melakukan kustomisasi di dalamnya. Proyek ini telah dikerjakan dan memakan waktu selama kurang lebih 4 hari. Hasil dari penelitian ini menunjukkan bahwa sistem dapat berfungsi dengan baik.
 
 <br><br>
