@@ -5,7 +5,6 @@
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Alat-Musik-Piano-Berbasis-STM32
-<strong>Solo Project: STM32-based Piano Instrument</strong><br><br>
 Piano is a melodic musical instrument that can produce tones when pressed. This musical instrument is in demand by many people because of its beautiful sound harmonization. However, its expensive price in the market makes some people unable to afford it. Therefore, this project was created with the aim of letting the general public know that pianos can actually be assembled by themselves, so price will no longer be a barrier. This will certainly be very beneficial for the wider community, because in addition to cutting costs, you can also customize it. This project has been done and took approximately 4 days. The results of this study show that the system can function properly.
 
 <br><br>
